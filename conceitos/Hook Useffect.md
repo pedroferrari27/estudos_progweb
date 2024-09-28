@@ -25,8 +25,8 @@ dependencies -> um array que determina quando o efeito será executado e quantas
 
 use effect pode ser usado para fazer cleanup, ou chamar funções de limpeza
 
-![[Pasted image 20240920214421.png]]
+![Pasted image 20240920214421](../Images/Pasted%20image%2020240920214421.png)
 
-![[Pasted image 20240920214440.png]]
+![Pasted image 20240920214440](../Images/Pasted%20image%2020240920214440.png)
 
 usefect pode ser usado para substituir varios metodos de ciclo de vida de classes:

@@ -15,7 +15,7 @@ combinators são os seletores finais
 
 eles combinam outros seletores de uma forma a dar-lhes um relacionamento util entre si
 
-![[Pasted image 20240829211549.png]]
+![Pasted image 20240829211549](../Images/Pasted%20image%2020240829211549.png)
 
 temos descendant combinators para selecionar elementos decrescentes (elementos filhos a baixo)
 

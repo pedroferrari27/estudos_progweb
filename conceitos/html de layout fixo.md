@@ -18,7 +18,7 @@ utilizam-se números de elementos pares para ser mais fácil manter o layout com
 
 utilizamos c como colunas, sendo c1 uma coluna noma divisão de 100% da tela, ou seja 
 c1 = 1/12 de uma tela completa (em questão vertical)
-![[Pasted image 20240830215853.png]]
+![Pasted image 20240830215853](../Images/Pasted%20image%2020240830215853.png)
 
 em CSS, sempre utilizar no começo
 --  *{
@@ -30,5 +30,5 @@ em CSS, sempre utilizar no começo
 para resetar as diferenças entre configurações dos browsers.
 
 .brief deve-se sempre colocar
-![[Pasted image 20240830211641.png]]
+![Pasted image 20240830211641](../Images/Pasted%20image%2020240830211641.png)
 

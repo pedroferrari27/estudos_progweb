@@ -22,11 +22,11 @@ estrategia padrão é a mobile-first, onde fazemos o design da menor tela primei
 
 alem disso, temos o design paralelo, onde fazemos o design de ambas modalidades concorrentemente
 
-![[Pasted image 20240830213803.png]]
+![Pasted image 20240830213803](../Images/Pasted%20image%2020240830213803.png)
 
 
 
-![[Pasted image 20240830214015.png]]
+![Pasted image 20240830214015](../Images/Pasted%20image%2020240830214015.png)
 
 grids fluidos -> tamanho alvo/contexto = tamanho relativo
 

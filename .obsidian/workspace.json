@@ -11,8 +11,12 @@
             "id": "72d56215bccf8539",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "aulas/AULA 12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aulas/AULA 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "aulas/AULA 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "aulas/AULA 12.md"
+              }
             }
           }
         ],
@@ -146,6 +154,8 @@
   },
   "active": "72d56215bccf8539",
   "lastOpenFiles": [
+    "aulas/AULA 14.md",
+    "aulas/AULA 10.md",
     "Images/Pasted image 20240828210400.png",
     "Images/Pasted image 20240828210624.png",
     "Images/Pasted image 20240829210020.png",
@@ -156,7 +166,6 @@
     "Images/Pasted image 20240829213308.png",
     "Images/Pasted image 20240829213342.png",
     "Images/Pasted image 20240829213539.png",
-    "Images/Pasted image 20240830211641.png",
     "Exemplos/aula 17/ex9/exercicios.zip",
     "Exemplos/aula 17/ex9/__MACOSX",
     "conceitos/tiam.md",
@@ -189,7 +198,6 @@
     "aulas/AULA 17.md",
     "Exemplos/aula 17/aula11.md",
     "Exemplos/aula 14/ex-aula 14.md",
-    "aulas/AULA 14.md",
     "Exemplos/ex-aula 14.md",
     "Untitled 1.md",
     "aulas/AULA 13.md",

@@ -16,6 +16,6 @@ deve usar valores específicos ou regex,
 
 tipos de seletores:
 
-[[CSS Atribute Selectors]]
-[[CSS Combinators]]
+[CSS Atribute Selectors](CSS%20Atribute%20Selectors.md)
+[CSS Combinators](CSS%20Combinators.md)
 

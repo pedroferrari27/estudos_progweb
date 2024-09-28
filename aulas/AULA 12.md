@@ -9,11 +9,11 @@ ___
 
 CSS e design responsivo
 
-[[tipos de medidas em CSS]]
+[tipos de medidas em CSS](../conceitos/tipos%20de%20medidas%20em%20CSS.md)
 
-[[html de layout fixo]]
+[html de layout fixo](../conceitos/html%20de%20layout%20fixo.md)
 
-[[design responsivo]]
+[design responsivo](../conceitos/design%20responsivo.md)
 
 
 

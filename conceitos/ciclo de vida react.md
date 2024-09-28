@@ -11,7 +11,7 @@ ___
 
 ciclo de vida react
 
-![[Pasted image 20240920205151.png]]
+![Pasted image 20240920205151](../Images/Pasted%20image%2020240920205151.png)
 
 
 primeiramente o componente é configurado, a inicialização

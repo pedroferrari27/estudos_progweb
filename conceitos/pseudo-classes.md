@@ -16,9 +16,9 @@ pseudo-classes são palavras-chave que estão fora da arvore do documento, mas p
 usadas como ancoras
 
 ex: links
-![[Pasted image 20240829213234.png]]
-![[Pasted image 20240829213308.png]]
-![[Pasted image 20240829213342.png]]
-![[Pasted image 20240829213539.png]]
+![Pasted image 20240829213234](../Images/Pasted%20image%2020240829213234.png)
+![Pasted image 20240829213308](../Images/Pasted%20image%2020240829213308.png)
+![Pasted image 20240829213342](../Images/Pasted%20image%2020240829213342.png)
+![Pasted image 20240829213539](../Images/Pasted%20image%2020240829213539.png)
 
 e vários outros

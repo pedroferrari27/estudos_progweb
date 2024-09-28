@@ -4,5 +4,6 @@
   "quickadd",
   "tag-wrangler",
   "text-extractor",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-link-converter"
 ]

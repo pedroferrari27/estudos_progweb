@@ -14,7 +14,7 @@ para adicionar bootstrap no arquivo html por cdn, colar este link abaixo do titl
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
 
-[[ex-aula 14]]
+[ex-aula 14](../Exemplos/aula%2014/ex-aula%2014.md)
 
 
 

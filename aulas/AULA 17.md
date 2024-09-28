@@ -16,4 +16,4 @@ setinterval() utillizado para ajustar timers
 
 concatenação : é possível concatenar elementos em html com js, utilizando o operador + , da mesma forma que concatenamos strings em python
 
-![[Pasted image 20240918200940.png]]
+![Pasted image 20240918200940.png](Pasted%20image%2020240918200940.png)
