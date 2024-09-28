@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Calculadora de parcelas</title>
+  </head>
+  <body>
+    <div>
+      <h1>Calculadora de parcelas</h1>
+      <span>Calcule os juros de cada parcela</span>
+      <form>
+        <label>
+          Quantidade a pagar (em Reais):
+          <input type="number" id="Reais" />
+        </label>
+        <label>
+          Quantidade de parcelas:
+          <input type="number" id="Parcelas" />
+        </label>
+        <button id="submit" type="submit">Enviar</button>
+        <label>
+          Resultado:
+          <textarea id="resultado" name="resultado"></textarea>
+        </label>
+      </form>
+    </div>
+    
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+.destaque{
+    color: rgba(2,106,185, 0.984);
+    font-family: arial;
+    background-color: burlywood;
+    text-align: center;
+    text-size-adjust: 5em;
+}
+
+#meuh1{
+    color: rgba(146, 26, 13, 0.25);
+    font-size: 8em;
+    text-align: right;
+}

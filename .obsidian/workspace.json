@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ffd1221f0af26d7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "63148aa76065502b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72d56215bccf8539",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74dfc7d8523b0394",
+    "type": "split",
+    "children": [
+      {
+        "id": "8036139d98829e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "126a4d69b049e2b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9dbf308b56cb600",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e12cae34a2ff4a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63957e79ce726ad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e508cb215e464dc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74bce5773712e68d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd6752cff4f20178",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43586a91786e90b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fc9661a07c08be3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-ocr:Search OCR": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "72d56215bccf8539",
+  "lastOpenFiles": [
+    "Images/Pasted image 20240828210400.png",
+    "Images/Pasted image 20240828210624.png",
+    "Images/Pasted image 20240829210020.png",
+    "Images/Pasted image 20240829210052.png",
+    "Images/Pasted image 20240829210130.png",
+    "Images/Pasted image 20240829211549.png",
+    "Images/Pasted image 20240829213234.png",
+    "Images/Pasted image 20240829213308.png",
+    "Images/Pasted image 20240829213342.png",
+    "Images/Pasted image 20240829213539.png",
+    "Images/Pasted image 20240830211641.png",
+    "Exemplos/aula 17/ex9/exercicios.zip",
+    "Exemplos/aula 17/ex9/__MACOSX",
+    "conceitos/tiam.md",
+    "canvas/Untitled.canvas",
+    "aulas/AULA 22.md",
+    "conceitos/React Routes.md",
+    "conceitos/paginas de erro.md",
+    "Exemplos/exercicios react/Routes/home page/src/Sobre.jsx",
+    "Exemplos/exercicios react/Routes/home page/src/routes.jsx",
+    "Exemplos/exercicios react/Routes/home page/src/main.jsx",
+    "Exemplos/exercicios react/Routes/home page/src/index.css",
+    "Exemplos/exercicios react/Routes/home page/src/Notfound.jsx",
+    "Exemplos/exercicios react/Routes/home page/src/Home.jsx",
+    "Exemplos/exercicios react/Routes/home page/src/Contato.jsx",
+    "Exemplos/exercicios react/Routes/home page/src/App.jsx",
+    "conceitos/React Hooks.md",
+    "conceitos/Hook UseState.md",
+    "conceitos/Hook Useffect.md",
+    "conceitos/Hook useMemo.md",
+    "conceitos/Hook useCallback.md",
+    "aulas/AULA 20.md",
+    "conceitos/ciclo de vida react.md",
+    "conceitos/renderização condicional.md",
+    "aulas/AULA 19.md",
+    "conceitos/JSX.md",
+    "conceitos/componentes.md",
+    "conceitos/DOM e Virtual DOM.md",
+    "aulas/AULA 18.md",
+    "Untitled.md",
+    "aulas/AULA 17.md",
+    "Exemplos/aula 17/aula11.md",
+    "Exemplos/aula 14/ex-aula 14.md",
+    "aulas/AULA 14.md",
+    "Exemplos/ex-aula 14.md",
+    "Untitled 1.md",
+    "aulas/AULA 13.md",
+    "canvas/geral.canvas"
+  ]
+}

@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.h1 {
+  font-size: 3rem; /* Aumente o tamanho da fonte */
+  margin-bottom: 20px;
+}
+
+#inputContainer {
+  margin-bottom: 10px;
+}
+
+#outputContainer {
+  font-size: 3rem; /* Aumente o tamanho da fonte */
+  text-align: center;
+}
+

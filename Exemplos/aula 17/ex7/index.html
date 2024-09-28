@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Calculadora de Degraus</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <label for="alturaDegrau">Altura de um degrau (m):</label>
+  <input type="number" id="alturaDegrau" step="0.01">
+  <br>
+  <label for="alturaDesejada">Altura desejada (m):</label>
+  <input type="number" id="alturaDesejada" step="0.01">
+  <br>
+  <button onclick="calcularDegraus()">Calcular</button>
+  <header id="degrausHeader">Número de degraus: <span id="degrausCount"></span></header>
+  <div id="containerDegraus"></div>
+  <script src="script.js"></script>
+</body>
+</html>
