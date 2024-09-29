@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aulas/AULA 12.md",
+                "file": "aulas/AULA 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aulas/AULA 12.md",
+                "file": "aulas/AULA 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aulas/AULA 12.md",
+                "file": "aulas/AULA 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aulas/AULA 12.md"
+                "file": "aulas/AULA 11.md"
               }
+            }
+          },
+          {
+            "id": "82d7299983aa0ed0",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,15 +153,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-ocr:Search OCR": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "72d56215bccf8539",
   "lastOpenFiles": [
+    "conceitos/CSS selectors.md",
+    "aulas/AULA 11.md",
     "aulas/AULA 14.md",
+    "aulas/AULA 12.md",
     "aulas/AULA 10.md",
     "Images/Pasted image 20240828210400.png",
     "Images/Pasted image 20240828210624.png",
@@ -198,9 +206,6 @@
     "aulas/AULA 17.md",
     "Exemplos/aula 17/aula11.md",
     "Exemplos/aula 14/ex-aula 14.md",
-    "Exemplos/ex-aula 14.md",
-    "Untitled 1.md",
-    "aulas/AULA 13.md",
     "canvas/geral.canvas"
   ]
 }
