@@ -15,3 +15,4 @@ https://ava.ufms.br/pluginfile.php/1488954/mod_resource/content/1/Topico-3-Lingu
 [pseudo-classes](../conceitos/pseudo-classes.md)
 
 exercícios finais CSS
+.
